@@ -65,3 +65,8 @@ and then go to your created Privilege and Protect your module.
 
 
 13. Enjoy and spread!
+
+
+****For detail guideline: https://oracle-base.com/articles/misc/oracle-rest-data-services-ords-authentication
+        Auth token refresh time setup: from https://auth0.com/docs/secure/tokens/refresh-tokens/configure-refresh-token-expiration
+        Auth Token refresh time setup using ORDS: https://www.jmjcloud.com/blog/ords-changing-the-default-oauth2-token-expiry-lifetime
