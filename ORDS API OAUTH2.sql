@@ -9,7 +9,7 @@
 --3. Now Create API Module 
         SQL Workshop    >   RESTful Services\Modules
 
---4. You can check your created API link for anywhere, its public
+--4. You can check your created API link from anywhere / any browser, its public
 
 --5. To prevent public access you need to create client to access API
 
